@@ -8,5 +8,9 @@ Mi CV puede descargarse de este link
 <p>
 
 [CV Actulizado] (https://sofiaibaez.github.io/CV_Traduc_TYHM2021/CV.pdf)
+  
+  La traduccion de textos puede verse en el siguiente link
+  
+  [Traducción de Texto] (https://sofiaibaez.github.io/CV_Traduc_TYHM2021/traduc.pdf)
 
   
