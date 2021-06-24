@@ -9,7 +9,7 @@ Mi CV puede descargarse de este link
 
 [CV Actulizado] (https://sofiaibaez.github.io/CV_Traduc_TYHM2021/CV.pdf)
  <a href="https://sofiaibaez.github.io/CV_Traduc_TYHM2021/CV.pdf">
- Traducción </a>
+ CV </a>
 
  
  <p>
